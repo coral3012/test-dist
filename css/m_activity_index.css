@@ -1,0 +1,95 @@
+@charset "utf-8";
+
+/********************************************************** 主页 **********************************************************/
+
+/*搜索*/
+.search_one{ padding: 0.2rem 0.15rem;}
+.search_box{ border-radius:0.3rem; margin: 0 auto; background-color:#f0f0f0; padding: 0.02rem 0.1rem;}
+.search_box .input_box{ border: none; height:0.26rem; text-align: center; width: 88%; background-color: transparent; font-size: 0.12rem;}
+.search_box .search{ display: block; color: #999; width:0.25rem; height:0.25rem;}
+.search_box .search svg{ width: 100%; height: 100%;}
+
+/* .box_two{} */
+.box_two .title_item{ font-size:0.18rem; padding: 0 0.15rem;}
+.box_two .title_item .name_txt{ font-weight: bold;}
+.box_two .two_slide{ margin-top:0.15rem; }
+.box_two .two_slide .swiper-slide { width:25%; margin-right: 0.1rem;  }
+.box_two .two_slide .swiper-slide:first-child{ padding-left:0.15rem; }
+.box_two .two_slide .swiper_list{ display:block; width:0.95rem; height:0.95rem;  margin:0 auto; color:#999999; position: relative; }
+.box_two .two_slide .swiper_list img{ border-radius:0.04rem;}
+.box_two .two_slide .swiper_list .name{ position: absolute; bottom: 0; color: white; margin: 0 0.05rem 0.1rem 0.05rem;}
+
+.box_three{ padding: 0.25rem 0.15rem 0 0.15rem;}
+.box_three .three_tab{ margin-bottom: 0.15rem;}
+.box_three .three_tab .tab_item{ font-size: 0.18rem;}
+.box_three .three_tab .tab_site{ margin-left: 0.3rem; color: #666;}
+/* .box_three .list_box{ } */
+.box_three .list_box .List_item{ margin-bottom:0.2rem; display: block; position: relative; }
+.box_three .list_box .List_item .list_img{ width:1.3rem; height:0.80rem; float: left; margin-right: 0.15rem;}
+.box_three .list_box .List_item .list_fr{ float: left; width:2rem;}
+.box_three .list_box .List_item .list_fr .list_title{ margin-bottom: 0.1rem; font-weight: bold; white-space:nowrap;text-overflow:ellipsis;overflow:hidden;}
+.box_three .list_box .List_item .list_fr .list_txt{ margin-bottom: 0.13rem;}
+.box_three .list_box .List_item .list_fr .list_txt img{ width:0.22rem; height: 0.22rem; border-radius: 50%; float: left; margin-right:0.1rem;}
+.box_three .list_box .List_item .list_fr .list_txt .name_txt{ float: left; color: #666;}
+.box_three .list_box .List_item .list_fr .list_txt_b{ font-size: 0.12rem;}
+.box_three .list_box .List_item .list_fr .cloes_icon{width:0.11rem; height:0.11rem; display: block;position: absolute; bottom:0.02rem; right: 0; color: #C2C2C2;}
+.box_three .list_box .List_item .list_fr .cloes_icon svg{ width:100%; height:100%; }
+
+/********************************************************** 主页 end **********************************************************/
+
+/********************************************************** 详情页 **********************************************************/
+
+/*banner*/
+.banner_box{  width: 100%; height: 1.6rem; position: relative;}
+
+/*头部信息*/
+.title_con{ position: relative; padding: 0.2rem 0.15rem 0.15rem 0.15rem; background-color: white; margin-bottom: 0.1rem;}
+.title_con .title_txt{font-size:0.16rem; margin-bottom: 0.1rem;}
+.title_con .title_score{ font-size:0.12rem; color:#3197F9; margin-bottom: 0.08rem;}
+.title_con .title_score_b{ font-size:0.12rem; color:#999;}
+.title_con .free_txt{ position: absolute; right:10%; top:0.6rem; font-size:0.18rem; font-weight: bold; color: #FF4B3A;}
+/*头部信息 end*/
+
+/*底部按钮*/
+.bottom_fixed{position: fixed; bottom: 0; left: 0; width: 100%;  background: #fff; padding: 0.12rem 0 0.12rem 0; box-shadow: 0 0 0.04rem 0 rgba(0,0,0,0.19); text-align: center;}
+.bottom_btn{width:0.9rem;  background: #3197f9; color: #fff; height:0.3rem; line-height:0.3rem; display: inline-block; text-align: center; border-radius:0.02rem;}
+
+.show_box{width: 100%; z-index:100; position: fixed; bottom: 0; left: 0; padding:0.1rem 0 0 0; background: #fff;}
+.show_box .close_box{margin: 0 0.2rem 0 0; color: #3197F9;}
+.show_box .close_box svg{ width: 0.15rem; height: 0.15rem;}
+.show_box .input_box{background: #fff; border-bottom:0.01rem solid #f5f5f5; padding:0.15rem 0.1rem 0.15rem 0.1rem;}
+.show_box .input_box input{border: none;width:85%;}
+.show_box .show_btn{  padding: 0.12rem 0 0.12rem 0; text-align: center;}
+.show_box .show_btn .bottom_btn{ width:0.9rem; height:0.3rem; line-height:0.3rem;  background: #3197f9; color: #fff;}
+.black_box{background:rgba(0,0,0,0.5); position: fixed; width: 100%; height: 100%; left: 0; top:0; z-index:99;}
+.mb70{ margin-bottom: 70px;}
+
+.click_dian_box{background:rgba(0,0,0,0.5); position: fixed; width: 100%; height: 100%; left: 0; top:0; z-index:99; }
+.dian_box_close{  float: right; margin:0.2rem 0.2rem 0 0; color: white;}
+.dian_box_con{ width: 80%;background-color: white;  margin: 10% auto 0 auto; padding:0.2rem;}
+.dian_box_con h1{ margin-top: 0.2rem;}
+
+/********************************************************** 详情页 end **********************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

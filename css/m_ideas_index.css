@@ -1,0 +1,78 @@
+@charset "utf-8";
+
+/********************************************************** 主页 **********************************************************/
+
+/*搜索*/
+.search_one{ padding: 0.2rem 0.15rem;}
+.search_box{ border-radius:0.3rem; margin: 0 auto; background-color:#f0f0f0; padding: 0.02rem 0.1rem;}
+.search_box .input_box{ border: none; height:0.26rem; text-align: center; width: 88%; background-color: transparent; font-size: 0.12rem;}
+.search_box .search{ display: block; color: #999; width:0.25rem; height:0.25rem;}
+.search_box .search svg{ width: 100%; height: 100%;}
+
+
+
+.two_slide{ margin-top:0.15rem; }
+.two_slide .swiper-slide { width:1.35rem; margin-right: 0.2rem;  }
+.two_slide .swiper-slide:first-child{ padding-left:0.15rem; }
+.two_slide .swiper_list{ display:block; width:1.35rem; height:1.78rem; margin: 0.2rem auto; }
+.two_slide .swiper_list img{ border-radius:0.04rem;}
+.two_slide .tab_select{  box-shadow: 0 0 0.15rem 0 rgba(0,0,0,0.5);transform: scale(1.1);-ms-transform:scale(1.1);/* IE 9 */-moz-transform:scale(1.1);/* Firefox */-webkit-transform:scale(1.1); /* Safari 和 Chrome */-o-transform:scale(1.1);}
+.box_con{ margin-top: 0.2rem;}
+.con_item{ padding: 0 0.15rem; display: none;}
+.list_show{ display: block;}
+.con_item .item_title{ text-align: center; font-size: 0.16rem; margin-bottom:0.15rem; font-weight: bold; }
+.con_item .title_a{ font-weight: bolder; margin-bottom: 0.15rem;}
+.con_item .title_con{ margin-bottom: 0.2rem; color: #666;}
+.con_item .title_con_b{}
+.con_item .title_con_b .title_con_b{ margin-bottom: 0.15rem;}
+.con_item .title_con_b .title_con_b .user_box{ margin-bottom: 10px;}
+.con_item .title_con_b .title_con_b .user_box img{ width: 0.34rem; height: 0.34rem; margin-right: 0.15rem; float: left; border-radius: 50%;}
+.con_item .title_con_b .title_con_b .user_box .name{ float: left; line-height: 0.34rem;}
+.con_item .title_con_b .title_con_b .con_txt{}
+
+.bottom_fixed{position: fixed; bottom: 0; left: 0; width: 100%;  background: #fff; padding: 0.12rem 0 0.12rem 0; box-shadow: 0 0 0.04rem 0 rgba(0,0,0,0.19); text-align: center;}
+.bottom_btn{width:0.9rem;  background: #3197f9; color: #fff; height:0.3rem; line-height:0.3rem; display: inline-block; text-align: center; border-radius:0.02rem;}
+.mb70{ margin-bottom: 70px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/********************************************************** 主页 end **********************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
